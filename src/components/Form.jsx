@@ -74,7 +74,7 @@ function Form() {
       emoji,
       date,
       notes,
-      positions: { lat, lng },
+      position: { lat, lng },
     };
     await createCity(newCity);
     navigate("/app/cities");

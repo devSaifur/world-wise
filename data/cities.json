@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -40,37 +28,37 @@
       "cityName": "Castello de la Plana",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2023-08-11T14:09:02.395Z",
-      "notes": "",
-      "positions": {
-        "lat": "40.01866687739595",
-        "lng": "-0.06148202832595429"
+      "date": "2023-08-12T10:41:02.919Z",
+      "notes": "lsadkfjdsf",
+      "position": {
+        "lat": "39.99038364336636",
+        "lng": "-0.037784532338576156"
       },
-      "id": 98443198
+      "id": 98443201
     },
     {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-11T14:09:02.395Z",
-      "notes": "nothing",
-      "positions": {
-        "lat": "40.01866687739595",
-        "lng": "-0.06148202832595429"
+      "cityName": "Komyshuvakha",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-08-12T10:55:33.012Z",
+      "notes": "hello",
+      "position": {
+        "lat": "47.782723610067364",
+        "lng": "35.703667581491494"
       },
-      "id": 98443199
+      "id": 98443202
     },
     {
-      "cityName": "Khagaria",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-08-11T17:26:46.300Z",
-      "notes": "",
-      "positions": {
-        "lat": "25.561812191809995",
-        "lng": "86.53272835360922"
+      "cityName": "Sakhipur",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2023-08-12T12:34:43.263Z",
+      "notes": "this will work",
+      "position": {
+        "lat": "24.29579302730469",
+        "lng": "90.21756975821488"
       },
-      "id": 98443200
+      "id": 98443203
     }
   ]
 }
