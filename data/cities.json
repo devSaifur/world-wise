@@ -37,18 +37,6 @@
       "id": 98443201
     },
     {
-      "cityName": "Komyshuvakha",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2023-08-12T10:55:33.012Z",
-      "notes": "hello",
-      "position": {
-        "lat": "47.782723610067364",
-        "lng": "35.703667581491494"
-      },
-      "id": 98443202
-    },
-    {
       "cityName": "Sakhipur",
       "country": "Bangladesh",
       "emoji": "🇧🇩",
@@ -59,6 +47,30 @@
         "lng": "90.21756975821488"
       },
       "id": 98443203
+    },
+    {
+      "cityName": "Valverde de Merida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-12T18:49:50.248Z",
+      "notes": "not cool",
+      "position": {
+        "lat": "38.889706231140785",
+        "lng": "-6.21533889971556"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Ivolginsk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-08-12T19:19:57.706Z",
+      "notes": "I visited this place",
+      "position": {
+        "lat": "51.74908013244004",
+        "lng": "107.27303685330719"
+      },
+      "id": 98443206
     }
   ]
 }
