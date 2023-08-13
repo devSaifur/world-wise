@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
-import styles from "./Login.module.css";
-import PageNav from "../components/PageNav";
-import { useAuth } from "../hooks/useAuth";
-import Button from "../components/Button";
 import { useNavigate } from "react-router-dom";
+
+import { useAuth } from "../hooks/useAuth";
+import PageNav from "../components/PageNav";
+import Button from "../components/Button";
+import styles from "./Login.module.css";
 
 export default function Login() {
   const [email, setEmail] = useState("jack@example.com");
